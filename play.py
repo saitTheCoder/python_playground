@@ -1,1 +1,1 @@
-print("ali")
+name = "sait"
